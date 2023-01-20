@@ -1,2 +1,2 @@
-# ML-Prediction-
+# ML-Prediction
 Prediction using Supervised Machine Learning
